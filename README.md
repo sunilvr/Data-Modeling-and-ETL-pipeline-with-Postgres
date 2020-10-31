@@ -1,6 +1,7 @@
 # Data-Modeling-and-ETL-pipeline-with-Postgres
 
 Introduction
+
 An music company might want to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team will be particularly interested in understanding what songs users are listening to. This data which resides in a directory of JSON logs on user activity on the app along with JSON metadata on songs will need a way to be queried upon. This data engineering project creates a Postgres database with appropriate design schema and tables to optimize queries on song play analysis.
 
 Project Description
